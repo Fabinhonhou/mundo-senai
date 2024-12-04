@@ -1,0 +1,247 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+body{
+    background-color: #E4E4E4;
+}
+header{
+    background-color: #C8C8C8;  
+     
+}
+
+
+
+header img{
+    position: relative;
+    left: 3%;
+}
+
+.icon{
+    align-content: center :
+}
+
+.icon p{
+    position: relative;
+    display: inline-flex;
+    left: 30%;
+    justify-content: center;
+    font-size:xx-large;
+    padding: 10px 40px;
+    
+
+}
+
+
+
+.primeira-parte h1{
+    padding: 1.5%;
+    background-color: #C8C8C8;
+    text-align: center;
+    font-size: 300%;
+    /* color: white; */
+}
+
+.primeira-parte img{
+    height: 700px;
+    width: 60%;
+    position: relative;
+    left: 20%;
+    padding: 1.5%;
+    border-radius: 5%;
+}
+
+.primeira-parte p{
+    /* text-align: center; */
+    margin-left: 22%;
+    margin-right: 22%;
+    font-size: 140%;
+    word-break: break-word;
+    padding-bottom: 1%;
+
+}
+
+.galeria1 iframe{
+    width: 20%;
+    height: 670px;
+    padding-left: 3%;
+    padding-right: 3%;
+    position: relative;
+    padding-top: 2%;
+    left: 10%;
+}
+
+.galeria2 img{
+    width: 20%;
+    height: 400px;
+    padding-top: 5%;
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-bottom: 5%;
+    position: relative;
+    left: 10%;
+    
+}
+
+.gdf h1{
+    padding: 1.5%;
+    background-color: #D74A85;
+    text-align: center;
+    font-size: 300%;
+    /* color: white; */
+}
+
+.segunda-parte h1{
+    padding: 1.5%;
+    background-color: #6780F2;
+    text-align: center;
+    font-size: 300%;
+    /* color: white; */
+}
+
+.segunda-parte img{
+    height: 500px;
+    width: 60%;
+    position: relative;
+    left: 20%;
+    padding: 1.5%;
+    border-radius: 5%;
+}
+
+.segunda-parte p{
+    margin-left: 22%;
+    margin-right: 22%;
+    font-size: 140%;
+    word-break: break-word;
+    padding-bottom: 1%;
+
+}
+
+.segunda-parte iframe{
+    height: 800px;
+    width: 60%;
+    position: relative;
+    left: 20%;
+    padding: 1.5%;
+    border-radius: 5%;
+}
+
+.rodape{
+    background-color: #D74A85;
+    padding-top: 76px; 
+    
+}
+
+.logolateral img{
+    margin-bottom: 36px;
+    position: relative;
+    left: 0.5%;
+}
+
+.rocentro{
+    border-bottom: 1px solid #fff;
+    margin-left: 3%;
+    margin-right: 3%;
+    display: flex;
+}
+
+.textocentro{
+    color: white;
+    text-align: center;
+    align-content: center;
+    position: relative;
+    left: 18%;
+    font-size: 140%;
+
+} 
+
+
+
+.rofinal{
+    padding-top: 40px;
+    padding-bottom: 60px;
+    position: relative;
+    left: 3%;
+    color: white;
+}
+
+.redesoc{
+    align-content: center;
+}
+
+.redesoc img{
+    margin-left: 11px;
+    width: 50px;
+    height: 50px;
+    position: relative;
+    left: 150%;
+    
+}
+
+
+
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #333;
+    color: white;
+    padding: 0px 50px;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.logo img {
+    height: 60%; /* Ajuste o tamanho da logo conforme necessário */
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    margin: 0px;
+    padding: 10px;
+    position: relative;
+    right: 30%;
+    
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: rgb(241, 224, 224);
+    font-size: 20px;
+    margin: 0 15px;
+}
+
+.nav-links a:hover {
+    text-decoration: underline;
+}
+
+.menu-toggle {
+    display: none;
+    flex-direction: column;
+    cursor: pointer;
+}
+
+.bar {
+    background-color: rgb(202, 24, 24);
+    height: 3px;
+    width: 25px;
+    margin: 4px 0;
+    border-radius: 3px;
+}
+
